@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 9aea569695da0e843a5a748789956e33
+timeCreated: 1470053326
+licenseType: Free
+ShaderImporter:
+  defaultTextures:
+  - _Pixel_Matrix: {fileID: 2800000, guid: caa4a9b0f64ce4a4093f54b30b6e1278, type: 3}
+  - _Texture: {fileID: 2800000, guid: aa762ee7680f35f4fb9a9210fa94ce61, type: 3}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
