@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCD_Screen.CSharp.Plugins", "LCD_Screen.CSharp.Plugins.csproj", "{9E780588-9024-C290-EDCD-F510231510E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCD_Screen.CSharp", "LCD_Screen.CSharp.csproj", "{F662F97A-F7CE-6D23-42F4-DF3B2AFEA7EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LCD_Screen.CSharp.Editor", "LCD_Screen.CSharp.Editor.csproj", "{376A1FD7-F429-53A6-17E0-36A937F14A5F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9E780588-9024-C290-EDCD-F510231510E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E780588-9024-C290-EDCD-F510231510E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E780588-9024-C290-EDCD-F510231510E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E780588-9024-C290-EDCD-F510231510E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F662F97A-F7CE-6D23-42F4-DF3B2AFEA7EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F662F97A-F7CE-6D23-42F4-DF3B2AFEA7EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F662F97A-F7CE-6D23-42F4-DF3B2AFEA7EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F662F97A-F7CE-6D23-42F4-DF3B2AFEA7EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{376A1FD7-F429-53A6-17E0-36A937F14A5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{376A1FD7-F429-53A6-17E0-36A937F14A5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{376A1FD7-F429-53A6-17E0-36A937F14A5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{376A1FD7-F429-53A6-17E0-36A937F14A5F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
