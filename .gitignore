@@ -1,0 +1,68 @@
+# =============== #
+# Misc #
+# =============== #
+*.avi
+*.mp4
+
+# =============== #
+# Unity generated #
+# =============== #
+Temp/
+Obj/
+UnityGenerated/
+/Library/
+Assets/Binaries/
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+*.wav
+*.mp3
+*.fbx
+*.tif
+*.png
+*.jpg
+*.obj
+*.bmp
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+Build/
+Assets/StreamingAssets/AssetBundles/
+Assets/StreamingAssets/AssetBundles.meta
+Data/
+Logs/
+logPlatform.txt
+Assets/AvatarManager_Test.cs
+Assets/AvatarManager_Test.cs.meta
+Assets/Scenes/IKScene.unity
+Assets/Scenes/IKScene.unity.meta
+Assets/Scripts/AvatarIK.cs
+Assets/Scripts/AvatarIK.cs.meta
+*.apk
+orbitvr_Data/
+*.exe
+*.pdb
+Assets/Thomas/
+Assets/Thomas.meta
+Assets/Scripts/SetNetworkParent.cs.meta~HEAD
+Assets/Scripts/SetNetworkParent.cs.meta~HEAD.meta
